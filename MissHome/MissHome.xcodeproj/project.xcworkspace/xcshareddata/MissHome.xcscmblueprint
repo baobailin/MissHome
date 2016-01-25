@@ -1,0 +1,32 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "FD6A1E08CA0F1E07D4C9E15538C2A44A17C1E886",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "4feac299-f5cc-2c4f-a28e-a504eb49db5b++9363" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "FD6A1E08CA0F1E07D4C9E15538C2A44A17C1E886" : 0,
+    "4feac299-f5cc-2c4f-a28e-a504eb49db5b++9363" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E41A4E31-5209-41F8-AE47-8898E788BBE1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "FD6A1E08CA0F1E07D4C9E15538C2A44A17C1E886" : "1yaoyou\/",
+    "4feac299-f5cc-2c4f-a28e-a504eb49db5b++9363" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MissHome",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MissHome\/MissHome.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/60.191.3.210\/svn\/CHSP",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4feac299-f5cc-2c4f-a28e-a504eb49db5b++9363"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/baobailin\/MissHome.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FD6A1E08CA0F1E07D4C9E15538C2A44A17C1E886"
+    }
+  ]
+}
